@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
-2024 Git,Training
+2024 Git,Training. All rights reserved.
 
 ## How to contribute
 
